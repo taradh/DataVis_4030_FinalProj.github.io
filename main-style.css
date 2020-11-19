@@ -1,0 +1,144 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #ffffff;
+    font-family: 'Rubik', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*----------Navbar Customization----------*/
+.navbar-custom {
+    background: #63a583;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.navbar-custom .navbar-text {
+    color: #ffffff;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.navbar-custom .nav-item.active .nav-link {
+    color: #fdd03b;
+}
+
+.navbar-custom .nav-item:focus .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #fdd03b;
+}
+
+.navbar-custom .nav-item:hover .nav-link .disabled{
+    color: #898989;
+}
+
+/*-----------Text Styling-----------*/
+
+h4, h3, h2, p .auth {
+    color: #63a583;
+}
+
+p {
+    color: #898989;
+}
+
+p strong a {
+    color: #898989;
+}
+
+p strong a:hover, .paper-ref a:hover {
+    color: #FECC50;
+}
+
+a {
+    color: #63a583;
+}
+
+a:hover {
+    color: #63a583;
+}
+
+.card h5 {
+    font-weight: bold;
+    color: #4a9396;
+}
+
+.card a {
+    font-weight: bold;
+    color: #4a9396;
+}
+
+.card a:hover {
+    font-weight: bold;
+    color: #FECC50;
+}
+
+.card-header {
+    background-color: #4a9396;
+}
+
+.headerTitle {
+    font-size: large;
+    font-weight: bold;
+    color: #FECC50;
+}
+
+.headerTitle:hover {
+    font-size: large;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+.text-box {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+/*-----------Custom Form-----------*/
+
+.bg-custom {
+    background-color: #63a583;
+}
+
+.lead {
+    color: #FFFFFF;
+    font-size: 25px; 
+    font-weight: strong;
+}
+
+.btnCustom {
+      background-color: #4a9396;
+      color: #ffffff;
+  }
+
+.btnCustom:hover {
+    background-color: #fdd03b;
+    color: #ffffff;
+  }
+
+.badgeCustom {
+    background-color: #4a9396;
+    color: #ffffff;
+}
+
+/*==============Footer===============================*/
+
+.footer-container {
+    background: #fdd03b;
+    width: 100%;
+    height: 200px;
+}
+
+.footer-text {
+    color: #4a9396;
+    font-size: 10pt;
+}
+
+.text-copy p {
+    color: #898989;
+    font-size: 19px;
+}
+
+.text-copy strong{
+    color: #FECC50;
+}
