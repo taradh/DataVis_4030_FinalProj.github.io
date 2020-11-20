@@ -6,18 +6,19 @@
     <meta name="keywords" content="">
      <meta name="author" content="Bloop Group">
 
-    <link rel="icon" href="images/Matt.jpg">
     <link rel="stylesheet" href="bootstrap-4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="main-style.css">
     <link rel="stylesheet" href="https://use.typekit.net/hei7guz.css">
+
+    <script type="text/javascript" src="d3/d3.min.js"></script><!-- Using V6 -->
 
 </head>
 
 <body>
     <div class="container">
-  <header class="blog-header py-3">
-    
-  </header>
+      <header class="blog-header py-3">
+        
+      </header>
 
   <div class="jumbotron p-4 p-md-5 text-white rounded bg-custom">
     <div class="col px-0">
@@ -28,7 +29,7 @@
 
 <main role="main" class="container">
   <div class="row">
-    <div class="col-md-8 blog-main">
+    <div class="col-md-9 blog-main">
 
       <div class="blog-post">
         <p>November 19, 2020 by <a href="https://github.com/coltonhs">Colton Smith</a>, <a href="https://github.com/taradh">Tarad Humphrey</a> & <a href="https://github.com/jahouse">Jada Houser</a></p>
@@ -75,15 +76,18 @@
         <p>
         As big tech has largely assisted with the documentation of police brutality and social justice movements, through viral iPhone footage, trending 
         Twitter hashtags, and top Google searches, we seek to investigate the extent to which big tech’s solidarity statements are reflective of their 
-        workforce. We examine Apple, Google, and Facebook’s diversity reports, recording the makeup of their workforce by gender and race from 2014 to 2018.
+        workforce. We examine Apple, Google, and Facebook’s diversity reports, recording the makeup of their workforce by race from 2014 to 2018.
         </p>
     </div><!-- Section 2 -->
 
-    <div class="p-4 mb-3 bg-light rounded">
-        <h4>Insert Graphs Here</h4>
-        <p class="mb-0">
-            Cool graphs here they're great very cool amazing awesome so neat yeah
+    <div class="graph p-4 mb-3 bg-light rounded">
+        <h4><strong>Overall Employee Numbers by Race</strong></h4>
+        <iframe width="100%" height="981" frameborder="0"
+  src="https://observablehq.com/embed/@jahouse/untitled?cell=layoutSelection&cell=titleg&cell=GoogleChart&cell=titlea&cell=AppleChart&cell=titlef&cell=FaceBookChart"></iframe>
+        <p class="notes mb-0">
+            *Apple's 2014 data included a "undeclared" option which made up 9%, this was discontinued in future reporting and has been omitted in these visualizations
         </p>
+
       </div><!-- insert graphs here -->
 
       <div class="blog-post py-4">
@@ -97,7 +101,7 @@
     <hr>
     </div><!-- /End of article -->
 
-    <aside class="col-md-4 blog-sidebar">
+    <aside class="col-md-3 blog-sidebar">
       <div class="p-4 mb-3 bg-light rounded">
         <h4>About</h4>
         <p class="mb-0">

@@ -5,6 +5,10 @@ body {
     font-family: 'Rubik', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.container {
+    max-width: 2000px;
+}
+
 /*----------Navbar Customization----------*/
 .navbar-custom {
     background: #63a583;
@@ -49,6 +53,10 @@ p strong a {
 
 p strong a:hover, .paper-ref a:hover {
     color: #FECC50;
+}
+
+.notes {
+    font-size: 12px;
 }
 
 a {
