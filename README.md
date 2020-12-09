@@ -8,7 +8,7 @@ Data: https://drive.google.com/drive/folders/1_voxqTZf4CSZlOHKmeRnjxyTsrCwzdLl?u
 
 Report: https://drive.google.com/file/d/1GqbSK02hFqgMGu5nyVPWQLbcNIdrlwVY/view?usp=sharing
 
-Video: 
+Video: https://drive.google.com/file/d/10hUvgnCaCrhjyt8LB1cZ9VLuQsBvms5H/view?usp=sharing
 
 Bubble Graphs: Colton Smith
 
