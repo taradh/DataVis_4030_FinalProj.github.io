@@ -10,7 +10,7 @@ Report: https://drive.google.com/file/d/1GqbSK02hFqgMGu5nyVPWQLbcNIdrlwVY/view?u
 
 Video: https://drive.google.com/file/d/10hUvgnCaCrhjyt8LB1cZ9VLuQsBvms5H/view?usp=sharing
 
-Bubble Graphs: Colton Smith
+Bubble Graphs/Video: Colton Smith
 
 Line Graphs: Tarad Humphrey
 
